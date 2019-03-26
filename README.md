@@ -1,2 +1,0 @@
-# Simplicity-Website
-Simplicity Website

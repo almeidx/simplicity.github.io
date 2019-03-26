@@ -1,0 +1,193 @@
+/* @import url('https://fonts.googleapis.com/css?family=Nunito'); */
+
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+*,
+html {
+	/* font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace; */
+	font-family: 'Titillium Web', sans-serif;
+	color: white;
+}
+
+
+/* Alert Messages */
+
+.alert {
+	width: 90%;
+	text-align: center;
+	margin: 10px auto;
+}
+
+/*   .bot-img {
+        
+        	border-radius: 50% !important;
+            width: 200px;
+            height: auto;
+            margin-top: 20px;
+            margin-bottom: -5px;
+
+
+
+            -webkit-animation: mover 2s infinite  alternate;
+            animation: mover 2s infinite  alternate;
+        }
+        
+              @-webkit-keyframes mover {
+          0% { transform: translateY(2); }
+          100% { transform: translateY(-50px); }
+          }
+          @keyframes mover {
+              0% { transform: translateY(0); }
+              100% { transform: translateY(-50px); }
+          }
+  
+        .main {
+			text-align: center
+		}
+		.doctitle {
+        	margin-left: 20px;
+        }
+        
+        .doctext {
+        	margin-left: 10px;
+        }*/
+
+
+/* Navbar */
+
+nav {
+	z-index: 100;
+	background-color: #2e2f30 !important;
+}
+
+.avatar {
+	width: 25px;
+	margin-right: 5px;
+	border-radius: 50px;
+}
+
+.nav-item {
+	margin: 5px;
+	font-size: 1.2em;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	color: #139bda !important;
+	transition: color .3s;
+}
+
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show>.nav-link {
+	color: #139bda !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color: white !important;
+}
+
+.navbar-brand {
+	width: 3em;
+	border-radius: 50px;
+}
+
+.nav-button {
+	background-color: #7289da;
+	border-radius: 5px;
+	text-align: center;
+	padding: 100%;
+}
+
+
+/* Title */
+
+.title {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.title h3 {
+	font-size: 45px;
+	font-weight: bold;
+}
+
+.title p {
+	font-size: 20px;
+}
+
+
+/* Buttons */
+
+.buttons {
+	margin-top: 75px;
+	text-align: center;
+	margin-bottom: 150px;
+}
+
+.buttons a {
+	text-decoration: none !important;
+	padding: 25px;
+	color: white;
+	background-color: #7289da;
+	border-radius: 10px;
+	transition: background-color .3s;
+}
+
+.buttons a:hover {
+	color: white;
+	background-color: #6177c6;
+	transition: background-color .3s;
+}
+
+.buttons a img {
+	width: 40px;
+}
+
+hr {
+	background-color: white;
+}
+
+
+/* Rest of page */
+
+h4 {
+	padding: 20px;
+	background-color: #6de6ff;
+	color: #0036d8 !important;
+	text-align: center;
+	width: 50em;
+	margin: auto;
+	border-radius: 10px;
+	font-size: 15px !important;
+}
+
+@media (min-width: 768px) {
+	.buttons {
+		margin-bottom: 175px;
+	}
+	h4 {
+		width: 30em;
+		font-size: 17.5px !important;
+	}
+	.alert {
+		width: 60%;
+	}
+}
+
+@media (min-width: 1024px) {
+	.title {
+		margin-top: 150px;
+	}
+	.profile {
+		border: 1px solid white;
+		border-radius: 10px;
+	}
+}
+
+.bg-discord {
+	background-color: #36393f;
+}
+
+.btn-default {
+	background-color: white;
+}
