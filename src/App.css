@@ -1,3 +1,5 @@
+@import url("../node_modules/hover.css/css/hover-min.css");
+
 /* #7289DA */
 
 * {
@@ -14,7 +16,6 @@ html, body, #root {
 body {
   background:#2C2F33;
   background-size: cover;
-  -webkit-font-smoothing: antialiased !important;
 }
 
 body, button, input {
@@ -50,10 +51,30 @@ body, button, input {
   text-transform: uppercase;
 }
 
+.hud a {
+  height: 100%;
+  width: 15%;
+  border: none;
+  margin: auto;
+  padding-bottom: none;
+  vertical-align: middle;
+  background: none;
+  color: #FFFFFF;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  opacity: 0.5;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
 .hud #logo {
   opacity: 1;
 }
 
+.hud a:hover {
+  opacity: 1;
+}
 
 .hud button:hover {
   opacity: 1;

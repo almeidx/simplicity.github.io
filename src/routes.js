@@ -1,9 +1,9 @@
 import React from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
-import Dashboard from './pages/dashboard';
-import Main from './pages/main';
-import Commands from './pages/commands';
+import Commands from './components/Commands';
+import Dashboard from './components/Dashboard';
+import Main from './components/Main';
 
 export default function Routes() {
   return (

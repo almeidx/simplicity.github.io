@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body, input, button {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
