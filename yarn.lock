@@ -4044,10 +4044,10 @@ escodegen@^1.11.0, escodegen@^1.9.1:
   optionalDependencies:
     source-map "~0.6.1"
 
-eslint-config-almeida@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/eslint-config-almeida/-/eslint-config-almeida-1.0.6.tgz#6f84883f5f12f153d3f5aea1c73fddeb645ef889"
-  integrity sha512-b/B8k9kbO9JPT7qMnQQxW+su7Xki8gh4ZFHGmXjT9OnTPBTheuqRewF1ml0ROOtW+QeUcZU7VvyEMY35aFVZ2A==
+eslint-config-almeida@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/eslint-config-almeida/-/eslint-config-almeida-1.0.7.tgz#b50bab6433a0170086f4eb0f90c8d79830ba9913"
+  integrity sha512-xxz14GR5okeOOjwfVA7jgOw+TScHgVZHrmqH0dNZ2lK8kskux8Vli7PotY5ZmjFgEulPnruhyyDrrioKPbge4A==
   dependencies:
     eslint "^6.8.0"
     eslint-plugin-import "^2.20.1"
