@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.03f7a6b5.chunk.css",
-    "main.js": "/static/js/main.53de9532.chunk.js",
-    "main.js.map": "/static/js/main.53de9532.chunk.js.map",
+    "main.js": "/static/js/main.af73f76d.chunk.js",
+    "main.js.map": "/static/js/main.af73f76d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b7dac3b3.js",
     "runtime-main.js.map": "/static/js/runtime-main.b7dac3b3.js.map",
     "static/css/2.36b46485.chunk.css": "/static/css/2.36b46485.chunk.css",
     "static/js/2.cbc96b54.chunk.js": "/static/js/2.cbc96b54.chunk.js",
     "static/js/2.cbc96b54.chunk.js.map": "/static/js/2.cbc96b54.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bd5cb1f69f7be38ec78c72ff6a249fd7.js": "/precache-manifest.bd5cb1f69f7be38ec78c72ff6a249fd7.js",
+    "precache-manifest.ac0132a40f30131234c17f61fa2eb70f.js": "/precache-manifest.ac0132a40f30131234c17f61fa2eb70f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.36b46485.chunk.css.map": "/static/css/2.36b46485.chunk.css.map",
     "static/css/main.03f7a6b5.chunk.css.map": "/static/css/main.03f7a6b5.chunk.css.map",
-    "static/media/simplicity-logo.png": "/static/media/simplicity-logo.8dc51b78.png"
+    "static/media/simplicity-logo.png": "/static/media/simplicity-logo.b6d65811.png"
   }
 }

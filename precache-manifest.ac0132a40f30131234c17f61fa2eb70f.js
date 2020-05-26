@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b0da47abe9ae64b50cc109061f4c29b",
+    "revision": "2da983989428dc2d1e46dd5e92476bd7",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.36b46485.chunk.css"
   },
   {
-    "revision": "41e2f0ed7582c7ad8da8",
+    "revision": "a033f93518948de4a58e",
     "url": "/static/css/main.03f7a6b5.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.cbc96b54.chunk.js"
   },
   {
-    "revision": "41e2f0ed7582c7ad8da8",
-    "url": "/static/js/main.53de9532.chunk.js"
+    "revision": "a033f93518948de4a58e",
+    "url": "/static/js/main.af73f76d.chunk.js"
   },
   {
     "revision": "da594b39ae80016a11b9",
     "url": "/static/js/runtime-main.b7dac3b3.js"
   },
   {
-    "revision": "8dc51b789873787c246a461d8bf3844e",
-    "url": "/static/media/simplicity-logo.8dc51b78.png"
+    "revision": "b6d65811df6cbe59ce8f4a6fcee2e0ee",
+    "url": "/static/media/simplicity-logo.b6d65811.png"
   }
 ]);
