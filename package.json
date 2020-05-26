@@ -2,7 +2,7 @@
   "name": "simplicity-website",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://simplicitydiscord.github.io/",
+  "homepage": "https://simplicity.github.io/",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "hover.css": "^2.3.2",
