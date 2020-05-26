@@ -1,6 +1,11 @@
 # Dependency files/directories
 node_modules/
+yarn.lock
 
 # IDE configuration directories
 .vscode/
 .idea/
+.editorconfig
+
+# Build directories
+build/
